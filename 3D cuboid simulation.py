@@ -235,6 +235,3 @@ def plot_rem(x,y):
 plot_face1(final_x,final_y)
 plot_face2(final_x,final_y)
 plot_rem(final_x,final_y)
-print((refl_dict[chr(65)][0]*a31)+(refl_dict[chr(65)][1]*a32)+(refl_dict[chr(65)][2]*a33))
-print((refl_dict[chr(65)][0]*a21)+(refl_dict[chr(65)][1]*a22)+(refl_dict[chr(65)][2]*a23))
-print((refl_dict[chr(65)][0]*a11)+(refl_dict[chr(65)][1]*a12)+(refl_dict[chr(65)][2]*a13))
