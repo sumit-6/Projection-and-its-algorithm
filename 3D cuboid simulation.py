@@ -144,7 +144,7 @@ def coordinater(x1,y1,z1):
     y_coordinate=(y1-v)*L+y1
     z_coordinate=(z1-w)*L+z1
     return (x_coordinate,y_coordinate,z_coordinate)
-#Creatind dictionary object out of these REFL_POINTS.
+#Creating dictionary object out of these REFL_POINTS.
 refl_dict=[]
 k=65
 for i in range(n):
