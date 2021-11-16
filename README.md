@@ -22,7 +22,7 @@ There is only one python file in this project: 3D_cuboid_simulation.py
 Packages required in order to run 3D_cuboid_simulation.py: Turtle and Numpy.
 Steps to run the project :-
 1. Install the package - numpy by using a command "pip install numpy" on command prompt.
-2. Run the python file and enter the x, y and z coordinate of observer's location in 3D space as the input.
+2. Run the python file and enter the dimensions of cuboid along with the x, y and z coordinate of observer's location in 3D space as the input.
 3. Press Enter and then you will get the projection of the cuboid to be plotted onto the screen.
 
  
