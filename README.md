@@ -4,7 +4,7 @@
 
 <!-- ## Definition -->
 
-**In this presentation, we will encounter an algorithm to take the projection of any 3D polyhedron onto a plane passing through a specific point inside it. We will be engaged with linear algebra, linear space transformation, 3D geometry involving equation of planes and lines, vector algebra and 3D spherical coordinate system. Let’s say that we have a cuboid placed in a 3D coordinate system and we are observing it from a given set of coordinates and focusing on a specific point. Then how will this cuboid appear to us?**
+**In this project, we will encounter an algorithm to take the projection of any 3D polyhedron onto a plane passing through a specific point inside it. We will be engaged with linear algebra, linear space transformation, 3D geometry involving equation of planes and lines, vector algebra and 3D spherical coordinate system. Let’s say that we have a cuboid placed in a 3D coordinate system and we are observing it from a given set of coordinates and focusing on a specific point. Then how will this cuboid appear to us?**
 
 ![Example of the projection](https://github.com/sumit-6/Projection-and-its-algorithm/blob/main/Diagram.png)
 
